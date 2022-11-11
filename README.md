@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Daniel👋</h3>
 <p align="center">
-  <a href="https://twitter.com/jamesatjaminit">Twitter</a>  ·
-  <a href="https://discord.gg/985yaqxPuy">Discord</a>
+  <a href="mailto:djvgeorge@gmail.com">Email</a>  ·
+  <a href="https://google.com">Website</a>
 </p>
 
 ---
