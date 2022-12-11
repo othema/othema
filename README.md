@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Daniel👋</h3>
+<h3 align="center">Hi, I'm Daniel 👋</h3>
 <p align="center">
   <a href="mailto:djvgeorge@gmail.com">Email</a>  ·
   <a href="https://google.com">Website</a>
