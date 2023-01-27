@@ -1,9 +1,3 @@
-<div align="center" >
- 
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
-</div>
-
 <h3 align="center">Hi, I'm Daniel 👋</h3>
 <p align="center">Full-stack developer based in Surrey, England</p>
 
